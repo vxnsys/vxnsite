@@ -1,4 +1,4 @@
-/* =============================================================
+﻿/* =============================================================
    GENERAL STYLES
  ============================================================ */
 
@@ -144,13 +144,3 @@ footer {
         margin-right: 10px;
         margin-left: 10px;
     }
-
-#header > .container > .row > .container {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/ZcvvYfQlYXur80l.jpeg") !important;
-}
-
-#head > .overlay {
-    background-repeat: no-repeat;
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/ZcvvYfQlYXur80l.jpeg");
-}
-

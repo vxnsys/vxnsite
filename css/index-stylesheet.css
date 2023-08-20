@@ -145,12 +145,23 @@ footer {
         margin-left: 10px;
     }
 
-#header > .container > .row > .container {
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/ZcvvYfQlYXur80l.jpeg") !important;
+#blog > div {
+    margin: 0px 0px 30px 0px;
 }
 
-#head > .overlay {
-    background-repeat: no-repeat;
-    background-image: url("https://app.saul.angry.ventures/assets/images/uploads/ZcvvYfQlYXur80l.jpeg");
+#blog > div {
+    margin: 0px 0px 30px 0px;
+}
+
+#blog > div {
+    margin: 0px 0px 30px 0px;
+}
+
+#blog > h1 {
+    margin: 20px 0px 10px 77px;
+}
+
+#blog > .container > .page-set > .container > .row > .col-md-3 {
+    margin: 0px 0px 0px 0px;
 }
 
